@@ -1,5 +1,5 @@
 ---
 title: "First post"
-date: YYYY-MM-DD
+date: 2024-04-16
 ---
 Hi!
